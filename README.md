@@ -1,6 +1,6 @@
 ## OTP Service API
 
-Provides service for sending SMS OTP Beta version 1
+Provides service for sending SMS OTP, Web Notification Beta version 1
 
 ## Tools and texh stack
 
@@ -16,3 +16,10 @@ Provides service for sending SMS OTP Beta version 1
 - [ ] Setup environment in project
 - [ ] Setup environment with Docker
 - [ ] Setup database
+
+### MVP (Minimum Viable Product) of project
+
+- [ ] Connect REST API with AWS SNS
+- [ ] Send OTP to client
+- [ ] Open API support member
+- [ ] Connecting from Front - End with preparation
